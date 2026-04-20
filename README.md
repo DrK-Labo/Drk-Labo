@@ -40,4 +40,4 @@ Rustで約1,000行のSchemeインタプリタを実装する、500ページ超�
 
 - 📝 **Zenn** — [@drk_laboratory](https://zenn.dev/drk_laboratory) — Rust・Scheme・言語処理系まわりの技術記事
 - 🐦 **X (Twitter)** — [@DrKLaboratory](https://x.com/DrKLaboratory) — 執筆の進捗と日々のメモ
-- 📚 **Amazon著者ページ** — *審査中（近日公開）*
+- 📚 **Amazon著者ページ** — [Dr.K Laboratory](https://www.amazon.co.jp/stores/author/B0GXN6D9LJ)
