@@ -15,7 +15,11 @@ Rustで約1,000行のSchemeインタプリタを実装する、500ページ超�
 
 対象読者: 何らかの言語で関数・分岐・ループを書いた経験がある方。Rust未経験でも、必要な文法は本書の中で段階的に導入します。
 
-> *Building a Scheme Interpreter in Rust — a 500+ page implementation book in Japanese. Builds a working Scheme interpreter in roughly 1,000 lines of Rust, with ownership, enums, and pattern matching introduced where the implementation demands them.*
+### Crafting a Scheme Interpreter in Rust
+
+*Hands-on Implementation of Lexers, Parsers, Evaluators, Closures & Lexical Scope.* The English edition of the book above. You build a working Scheme interpreter in about 1,000 lines of Rust, and ownership, enums, and pattern matching are introduced where the implementation needs them. The companion code is [DrK-Labo/mini-scheme](https://github.com/DrK-Labo/mini-scheme/tree/en).
+
+**[View on Amazon Kindle →](https://www.amazon.com/dp/B0HS51CVQG)**
 
 ---
 
